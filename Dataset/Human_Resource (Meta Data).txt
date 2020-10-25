@@ -1,0 +1,19 @@
+Human Resources
+
+Data perusahaan besar (Big Company) yang berisi informasi tentang pekerjanya. Melalui divisi Human Resource, perusahaan ingin memprediksi karyawan yang akan meninggalkan perusahaan (left).
+
+Kelas : "Left"
+1 : Meninggalkan Perusahaan
+0 : Tidak Meninggalkan perusahaan
+Hint : ubah ke bentuk faktor
+
+Attribut :
+Satisfaction level : Tingkat kepuasan bekerja
+Latest evaluation : Evaluasi tahunan
+Number of project : Jumlah projek yang telah dikerjakan
+Average monthly hours : Rata-rata total jam kerja per bulan
+Time Spend : Lama bekerja di perusahaan (Tahun)
+Work accident : Kecelakaan selama bekerja (Dalam 2 tahun terakhir)
+Promotion : Promosi pekerjaan (Dalam 5 tahun terakhir)
+Departement : Divisi (Departemen)
+Salary : Tingkat gaji karyawan
